@@ -1,0 +1,15 @@
+## Rule of Law
+
+If a federal court lacks subject matter jurisdiction at the time of filing because of a lack of diversity under 28 U.S.C. § 1332, a party’s post-filing change of citizenship will not cure the defect.
+
+## Facts
+
+Atlas Global Group, L.P. (Atlas) (plaintiff), a limited partnership formed under Texas law, brought a lawsuit in federal court against Grupo Dataflux (Dataflux) (defendant), a Mexican corporation, alleging breach of contract and _quantum meruit_ claims. Jurisdiction in the federal court was founded on diversity of citizenship. The matter went to trial, and a jury awarded Atlas $750,000 in damages. After trial, but before entry of the judgment, Dataflux moved to dismiss the lawsuit on the ground that the court lacked subject matter jurisdiction. The citizenship of a limited partnership is based on the citizenships of its partners. It was revealed that, at the time of filing, Atlas’s partners were citizens of Delaware, Texas, and Mexico. Thus, aliens on each side of the case precluded diversity jurisdiction under 28 U.S.C. § 1332. The district court dismissed the case. On appeal, Atlas established that its Mexican partners had left the partnership one month prior to trial. Thus, diversity existed at the time of the jury’s verdict. The Fifth Circuit reversed, citing _Caterpillar Inc. v. Lewis_, 519 U.S. 61 (1996). Dataflux petitioned the United States Supreme Court for certiorari.
+
+## Issue
+
+If a federal court lacks subject matter jurisdiction at the time of filing because of a lack of diversity under 28 U.S.C. § 1332, can a party’s post-filing change of citizenship cure the defect?
+
+## Holding and Reasoning (Scalia, J.)
+
+No. Atlas’s lawsuit must be dismissed for lack of subject matter jurisdiction, notwithstanding its change in citizenship. The time-of-filing rule, which provides that jurisdiction is based on the circumstances at the time of the lawsuit’s filing, is nearly two centuries old. The exception to the time-of-filing rule stated in _Caterpillar_, which is itself longstanding, applies only if a nondiverse party drops out of the case, thereby curing the jurisdictional defect. The _Caterpillar_ exception does not apply to the matter at bar, therefore, because there was no change to the parties in the lawsuit. Atlas remained the sole plaintiff throughout. The Court has never held that a post-filing change to a party’s citizenship will remedy a jurisdictional defect, and it declines to do so now. The Court also declines to treat a partnership as though it is composed of multiple parties. Today’s holding is supported by policy considerations. The time-of-filing rule is important, because it decreases the amount of litigation over jurisdictional matters. The efficiency concerns over dismissing a case that has already gone to trial are overstated. Here, the parties are likely to settle, because they have seen each other’s hands, as well as the outcome of their litigation before a jury. Even if they choose to go to trial again, they can do so expeditiously, since discovery and pretrial motions have been completed. Accordingly, the judgment of the Fifth Circuit is reversed.
