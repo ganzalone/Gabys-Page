@@ -174,11 +174,36 @@ UCC §§2-316, 317, 318
 Restatement Second §§224, 225, 226, 227,228
 
 
+- fraud- knowing falsehood - ex: i straight up lie
+- warranty- unknowing falsehood- ex: the car i just sold u breaks down 
+
+- MAKING A PROMISE MEANS TAKING ON A DUTY
+- CONDITION MEANS NO DUTY IS YET OWED, CONTINGENT ON PERFORMANCE
 
 
 
+restatements 204 + 226 connections
+
+225 comment b- excusing the non-occurence of the condition 
+
+
+Clark v West
+- amended contract is not supported by consideration-- 
+- new modification needs consideration *** 
+- you intentionally give up right- it does not change contract- but it does not remove the clause from the contract. 
+- if plaintiff did not maintain condition, he lost right to that sum.
+- stipulation wasnt fulfilled
+
+SUBSECTION 2 SECTION 84
+WHERE TO REINSTATE THE CONDITION
+
+UCC 222 SUB 4 & 5
+205 ill. 9
+
+mutual assent 
 
 
 ## References
 
-1. 
+1. condition- note 6 pg 820 
+2. 
