@@ -12,7 +12,9 @@ permalink: /
 </p>
 
  [[Torts Outline]]
+ 
  [[Civil Procedure Outline]]
+ 
  [[Property Outline]]
 
 i straight up busted my ass for this so i hope you enjoy. this is a CONSTANT work in progress.
