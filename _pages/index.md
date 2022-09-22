@@ -11,7 +11,11 @@ permalink: /
   Dear god i hope this works, check out <span style="font-weight: bold">[[Contracts Outline]]</span> my beloved homies.
 </p>
 
-i straight up busted my ass for this so i hope you enjoy
+ [[Torts Outline]]
+ [[Civil Procedure Outline]]
+ [[Property Outline]]
+
+i straight up busted my ass for this so i hope you enjoy. this is a CONSTANT work in progress.
 
 <style>
   .wrapper {
