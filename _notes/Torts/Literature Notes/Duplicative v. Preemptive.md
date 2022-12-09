@@ -1,0 +1,3 @@
+Duplicative cause: If two seperate causes are sufficient enough to have created the tortious harm on their own, and would have done so regardless of the other force, these causes are "duplicative" causes
+
+Preemptive cause: Ex: Tortfeasor 1 poisons victim's tea. As victim is about to drink the tea, Tortfeasor 2 shoots the victim dead. Victim died by gunshot, not poison. Tortfeasor 1's conduct is not a cause in fact.

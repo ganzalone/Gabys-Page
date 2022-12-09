@@ -1,0 +1,1 @@
+- where a persons alleged negligence is caused by a sudden physical incapacitation that is not forseeable to that person, there should be no liability

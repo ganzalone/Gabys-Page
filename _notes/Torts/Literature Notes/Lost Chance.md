@@ -1,0 +1,1 @@
+Negligent actions may be the proximate cause of a person’s death when they reduce the person’s overall chance of survival by some degree, regardless of whether the person initially had a greater than fifty-one percent chance of survival.
