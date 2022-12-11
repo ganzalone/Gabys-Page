@@ -22,7 +22,7 @@ what is NOT false imprisonment?
 - moral threats are not false imprisonment
 - no knowledge or harm of imprisonment 
 
-[[**Merchant's privilege to detain**]]- reasonable confinement
+[[Torts/Literature Notes/Merchant's privilege to detain]]- reasonable confinement
 
 
 ## References
