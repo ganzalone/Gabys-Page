@@ -16,7 +16,8 @@
 			2. [[Self defense]]
 			3. [[Defense of Property]]
 			4. [[Contributory Negligence]]
-	1. Negligence
+			5. [[**Merchant's privilege to detain**]]
+	1. [[Negligence]]
 		1. Duty
 			1. [[Misfeasance]]
 			2. [[Nonfeasance]]
@@ -46,4 +47,5 @@
 			2. [[Rescue Doctrine]]
 			3. [[Intervening Causes]]
 		5. Damages
+			1. [[Egg Shell Skull Rule]]
 	2. Strict liability

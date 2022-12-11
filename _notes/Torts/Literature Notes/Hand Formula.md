@@ -3,8 +3,9 @@ B = burden of preventing the harm
 P = probability of harm
 L = gravity of harm (loss)
 
+
 "precaution should be taken until a penny more spent to prevent accidents yields less than a pennys reduction in expected accident costs"
- --gregory c keating 
+ Gregory C Keating 
 
 the untaken precaution
 how much would it have cost to take the precaution? (B = burden of taking precaution)

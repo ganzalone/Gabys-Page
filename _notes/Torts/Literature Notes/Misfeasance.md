@@ -1,1 +1,1 @@
-misfeasance: if ones conduct creates a risk of harm to others, one has a duty to use reasonable care to prevent harm to others. just about eveyrthing in life creates some risk of harm, so there is usually a duty
+misfeasance: if ones conduct creates a risk of harm to others, one has a duty to use reasonable care to prevent harm to others. just about everything in life creates some risk of harm, so there is usually a duty

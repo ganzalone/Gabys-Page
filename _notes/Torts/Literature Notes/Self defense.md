@@ -12,6 +12,8 @@ Created: 2022-09-17 17:09
 - use of excessive force waives right to self defense
 
 - mistake- D, if made a mistake about apprehending a danger, is entitled to self-defense if they reasonably apprehend that violence is about to occur, and that the method used is reasonable
+- self defense can justify battery, assault & false imprisonment
+- cannot use self defense in retaliation- time to use the defense cannot be frustrated
 
 ## References
 

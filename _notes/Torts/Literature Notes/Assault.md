@@ -8,10 +8,11 @@ Created: 2022-09-17 14:44
 	- "imminent" 
 	- apprehend an imminent battery must be reasonable under the circumstances. "apprehend" is replaced by "anticipated" in the third restatement
 	- fear is not necessarily required in apprehension 
+	- words alone never sufficient, must be coupled with action 
 	
 
 
 ## References
 
 1. [[Cullison v. Medley (1991)]]
-2. 
+2.

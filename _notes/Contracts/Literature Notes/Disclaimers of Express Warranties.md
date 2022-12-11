@@ -8,4 +8,4 @@ Seller is somewhat protected "against false allegations of oral warranties" beca
 
 ## References
 
-1. 
+1.  

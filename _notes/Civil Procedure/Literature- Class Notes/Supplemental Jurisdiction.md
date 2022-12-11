@@ -9,7 +9,9 @@ Created: 2022-09-22 13:56
 
 - Why do we have supplemental jurisdiction?- try the whole case at once, avoid duplicative litigation, promote judicial economy & efficiency 
 
-
+- OG FED SMJ over one claim + related claim
+	- common nucleus of operative fact
+	- restrictions in diversity j cases on supp j over p's claims against other parties
 ## References
 
 1. 

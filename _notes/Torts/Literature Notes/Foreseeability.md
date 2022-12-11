@@ -4,7 +4,7 @@
 **What does Foreseeable mean?**
 "An actor’s liability is limited to those physical harms that result from the risks that made the actor’s conduct tortious.”  Rest 3d Torts § 29.
 
-1. You are not liable for for harms not foreseeable in general; and
+1. You are not liable for harms not foreseeable in general; and
 2. You are not liable for foreseeable harms that a reasonable person would not have taken precautions to avoid.
 
 

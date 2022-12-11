@@ -8,8 +8,8 @@
 
 procedural effect of res ipsa loquitor- *raises an interference of negligence*
 
-MAJORITY RULE- res ipra loquitor permits inference of negligence: 
+MAJORITY RULE- res ipsa loquitor permits inference of negligence: 
 - jury is permitted (but not required) to find defendant negligent if the jury finds that the plaintiff has proved the elements of res ipsa loquitor
 
 MINORITY: rebuttable presumption of negligence created:
-- f jury finds that plaintiff has proved the elements of res ipsa loquitor, defendant must be presumed negligent. defendant can rebut this resumption with evidence that it was not negligent. 
+- if jury finds that plaintiff has proved the elements of res ipsa loquitor, defendant must be presumed negligent. defendant can rebut this resumption with evidence that it was not negligent. 

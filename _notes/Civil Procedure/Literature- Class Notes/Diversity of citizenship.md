@@ -12,7 +12,7 @@ Created: 2022-09-22 13:28
 - commonwealth of PR
 - territories (guam, american samoa, us virgin islands)
 
-28 usc 1332 (c)(2) legal representative of the estte of a decedent, infant or incompetent- citizen of same state as decedent or infant/incompetent ([[Hawkins v. Masters Farm (2003)]])
+28 usc 1332 (c)(2) legal representative of the estate of a decedent, infant or incompetent- citizen of same state as decedent or infant/incompetent ([[Hawkins v. Masters Farm (2003)]])
 
 *in determining diversity of citizenship- the time of filing is operative time, with exception of [[Class Action Fairness Act]]
 

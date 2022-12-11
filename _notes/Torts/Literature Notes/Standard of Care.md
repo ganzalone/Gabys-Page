@@ -18,3 +18,7 @@ the standard according to the Restatement 2nd:
  - physical infirmities
  - persons with superior faculties
  - age
+
+cardozo view (majority)- reasonable person that there is foreseeable risk in getting hurt 
+
+minority- everyone is owed a duty
