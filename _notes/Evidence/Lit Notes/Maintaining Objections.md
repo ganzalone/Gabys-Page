@@ -1,0 +1,2 @@
+When judge “rules” – the objection or offer of proof is preserved for appeal.
+If judge “defers ruling” then parties must renew objections and offers of proof or else objection is NOT preserved for appeal. 

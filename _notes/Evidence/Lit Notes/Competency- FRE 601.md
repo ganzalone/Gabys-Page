@@ -1,0 +1,3 @@
+Every person is competent to be a witness...
+
+Narrow exceptions - judge may not testify at a trial in which they preside, and a juror may not testify in a case in which they are sitting.

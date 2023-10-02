@@ -1,0 +1,12 @@
+- Ambiguous
+- Argumentative
+- Asked & Answered
+- Assumes Fact Not in Evidence
+- Beyond the Scope
+- Calls for Narrative
+- Calls for Speculation
+- Compound Question
+- Harassing/Badgering Witness
+- Improper Characterization
+- Leading
+- Non-Responsive
